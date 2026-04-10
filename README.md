@@ -10,7 +10,7 @@ A night owl's availability project built as part of my freeCodeCamp journey.
 This project explores tables and styling.
 
 ## 🌐 Live Site
-(Link coming soon)
+https://karmacreates.github.io/availability/
 
 ---
 
